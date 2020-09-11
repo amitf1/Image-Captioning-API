@@ -13,7 +13,7 @@ st.set_option('deprecation.showfileUploaderEncoding', False)
 
 def load_model(path):
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-    checkpoint = torch.load(path)
+    checkpoint = torch.load(path, map_location=device)
 
     model = EncoderDecoder(
         embedding_size=256,
