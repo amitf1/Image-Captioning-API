@@ -1,5 +1,5 @@
-https://download.pytorch.org/whl/torch_stable.html/cpu/torch-1.5.1%2Bcpu-cp36-cp36m-linux_x86_64.whl
-https://download.pytorch.org/whl/torch_stable.html/cpu/torchvision-0.6.1%2Bcpu-cp36-cp36m-linux_x86_64.whl
+https://download.pytorch.org/whl/torch_stable.html/cpu/torch-1.5.1%2 Cpu-cp36-cp36m-linux_x86_64.whl
+https://download.pytorch.org/whl/torch_stable.html/cpu/torchvision-0.6.1%2 Cpu-cp36-cp36m-linux_x86_64.whl
 Pillow==7.2.0
 streamlit~=0.66.0
 
