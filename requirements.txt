@@ -1,4 +1,5 @@
-torch==1.6.0+cpu torchvision==0.7.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
+https://download.pytorch.org/whl/torch_stable.html/cpu/torch-1.5.1%2Bcpu-cp38-cp38-linux_x86_64.whl
+https://download.pytorch.org/whl/torch_stable.html/cpu/torchvision-0.6.1%2Bcpu-cp38-cp38-linux_x86_64.whl
 Pillow==7.2.0
 streamlit~=0.66.0
 
